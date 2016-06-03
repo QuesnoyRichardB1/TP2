@@ -55,7 +55,12 @@
 
 #article
 {
+<<<<<<< HEAD
 	width:2000px;
+=======
+    margin-top: 100px;
+        width:2000px;
+>>>>>>> 2156aaed489525097362b01e52b918a0271ffa2d
 	margin-left:auto;
 	margin-right:auto;
 }
